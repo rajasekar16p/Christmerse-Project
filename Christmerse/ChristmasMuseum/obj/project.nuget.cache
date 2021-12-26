@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlKkYRD3hYZy37FWod/vLXuEHSEgb1Y3FLXpG1HPx6leBYyKRV5gM7G74/jE0qfhRfbcOzYPtgeC3xctzIvdWA==",
+  "success": true,
+  "projectFilePath": "G:\\VS Projects\\Build\\Christmerse-Project\\Christmerse\\ChristmasMuseum\\ChristmasMuseum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senthil\\.nuget\\packages\\stereokit\\0.3.5-preview.4\\stereokit.0.3.5-preview.4.nupkg.sha512",
+    "C:\\Users\\senthil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

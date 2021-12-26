@@ -1,0 +1,265 @@
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\floor.hlsl.sks
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.exe
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.deps.json
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.runtimeconfig.json
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.runtimeconfig.dev.json
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.pdb
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\StereoKit.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\StereoKitC.sym
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\libStereoKitC.so
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\libopenxr_loader.so
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\StereoKitC.sym
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libStereoKitC.so
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win-x64\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win-x64\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm64\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm64\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-x64\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-x64\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.csproj.AssemblyReference.cache
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.AssemblyInfoInputs.cache
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.AssemblyInfo.cs
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.csproj.CoreCompileInputs.cache
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.dll
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.pdb
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.genruntimeconfig.cache
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\license.txt
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\textures\Object001_mtl_baseColor - Copy.jpeg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\textures\Object001_mtl_baseColor.jpeg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\floor1.jpg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\StereoKitC.sym
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libStereoKitC.so
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\license.txt
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_emissive.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\gifts_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\gifts_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\gifts_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\material_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\material_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\pie.002_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\pie.002_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\license.txt
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\textures\christmas_tree_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\textures\christmas_tree_emissive.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\beine_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\beine_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\beine_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\boden_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\boden_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\boden_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\fell_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\fell_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\fell_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\grtel_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\grtel_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\grtel_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haar_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haar_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haar_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haut_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haut_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haut_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\mantel_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\mantel_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\mantel_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\material_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\material_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\material_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\metall_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\metall_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\metall_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\schwert_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\schwert_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\schwert_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\xmasscene\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\xmasscene\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\license.txt
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\textures\Chair_baseColor.jpeg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\textures\Chair_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\textures\Chair_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__29_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__29_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__30_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__30_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\license.txt
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\textures\Santa_mat_baseColor.jpeg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\textures\Snow_mat_baseColor.jpeg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\cloth_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\cloth_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\cloth_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\gifts_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\gifts_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\gifts_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\sledge_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\sledge_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\sledge_normal.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\snow_globe\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\snow_globe\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\textures\material_0_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\textures\material_0_metallicRoughness.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\pure-white-snow-surface.jpg
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\stars\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\stars\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\license.txt
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\scene.bin
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\scene.gltf
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\textures\Material.001_baseColor.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\Christmerse.png
+G:\VS Projects\StereoKit projects\ChristmasMuseum\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.csproj.CopyComplete
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\floor.hlsl.sks
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\Christmerse.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\license.txt
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\textures\Object001_mtl_baseColor - Copy.jpeg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\circular_showroom\textures\Object001_mtl_baseColor.jpeg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\floor1.jpg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\pure-white-snow-surface.jpg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\textures\material_0_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\ruler\textures\material_0_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\license.txt
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\textures\Chair_baseColor.jpeg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\textures\Chair_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\chair\textures\Chair_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\license.txt
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\textures\christmas_tree_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\neon\textures\christmas_tree_emissive.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\beine_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\beine_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\beine_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\boden_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\boden_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\boden_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\fell_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\fell_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\fell_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\grtel_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\grtel_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\grtel_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haar_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haar_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haar_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haut_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haut_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\haut_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\mantel_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\mantel_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\mantel_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\material_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\material_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\material_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\metall_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\metall_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\metall_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\schwert_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\schwert_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\nutcracker\textures\schwert_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__29_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__29_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__30_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\reindeer\textures\Material__30_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\license.txt
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\textures\Santa_mat_baseColor.jpeg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\santa_claus\textures\Snow_mat_baseColor.jpeg
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\license.txt
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sky\textures\Material.001_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\cloth_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\cloth_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\cloth_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\gifts_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\gifts_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\gifts_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\sledge_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\sledge_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\sleigh\textures\sledge_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\snow_globe\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\snow_globe\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\stars\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\stars\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\license.txt
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_emissive.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\decorations_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\gifts_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\gifts_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\gifts_normal.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\material_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\material_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\pie.002_baseColor.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\tree\textures\pie.002_metallicRoughness.png
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\xmasscene\scene.bin
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\Assets\xmas\xmasscene\scene.gltf
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.exe
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.deps.json
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.runtimeconfig.json
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.runtimeconfig.dev.json
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\ChristmasMuseum.pdb
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\StereoKit.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\StereoKitC.sym
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\libStereoKitC.so
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\libopenxr_loader.so
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\StereoKitC.sym
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libStereoKitC.so
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\StereoKitC.sym
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libStereoKitC.so
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win-x64\native\StereoKitC.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win-x64\native\StereoKitC.pdb
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm\native\StereoKitC.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm\native\StereoKitC.pdb
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm64\native\StereoKitC.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-arm64\native\StereoKitC.pdb
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-x64\native\StereoKitC.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\bin\Release\netcoreapp3.1\runtimes\win10-x64\native\StereoKitC.pdb
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.csproj.AssemblyReference.cache
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.AssemblyInfoInputs.cache
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.AssemblyInfo.cs
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.csproj.CoreCompileInputs.cache
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.dll
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.pdb
+G:\VS Projects\Build\Christmerse-Project\Christmerse\ChristmasMuseum\obj\Release\netcoreapp3.1\ChristmasMuseum.genruntimeconfig.cache
